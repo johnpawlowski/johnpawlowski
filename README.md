@@ -19,4 +19,5 @@ I'm currently working through an AI engineering roadmap. I'm learning to design,
 
 ## Connect
 
-- 🏢 [Nemos Automation](https://www.nemosautomation.com)
+- [Nemos Automation](https://www.nemosautomation.com)
+- [LinkedIn](https://www.linkedin.com/in/johnpawlowski93/)
