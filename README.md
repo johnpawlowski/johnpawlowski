@@ -9,13 +9,12 @@ I'm currently working through an AI engineering roadmap. I'm learning to design,
 
 ## Currently learning
 
-- Git & GitHub (Week 1 of Phase 0)
-- Python dev environment best practices
+- Python dev environment & API integrations (Phase 0, Week 2)
 - Prompt engineering & agent frameworks (coming soon)
 
 ## Projects
 
-*(Adding weekly as I build)*
+- [3-Day Weather Forecast CLI](https://github.com/johnpawlowski/three-day-forecast) — fetches a 3-day weather forecast for any city via the OpenWeatherMap API
 
 ## Connect
 
