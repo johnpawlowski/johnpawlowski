@@ -14,7 +14,7 @@ I'm currently working through an AI engineering roadmap. I'm learning to design,
 ## Projects
 - [3-Day Weather Forecast CLI](https://github.com/johnpawlowski/three-day-forecast) — fetches a 3-day weather forecast for any city via the OpenWeatherMap API
 - [Simple Bank CLI](https://github.com/johnpawlowski/simple-bank-cli) — CLI for managing multiple bank accounts with persistent state
-- 
+  
 ## Connect
 
 - [Nemos Automation](https://www.nemosautomation.com)
