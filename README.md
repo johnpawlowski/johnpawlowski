@@ -8,10 +8,10 @@ building AI-powered tools and workflows for small and medium businesses.
 I'm currently working through an AI engineering roadmap. I'm learning to design, build, and deploy AI products that solve real business problems.
 
 ## Currently learning
-~- Git & GitHub~
-~- Python dev environment best practices~
-~- Python dev environment & API integrations~
-~- OOP fundamentals in Python~
+- ~Git & GitHub~
+- ~Python dev environment best practices~
+- ~Python dev environment & API integrations~
+- ~OOP fundamentals in Python~
 - Prompt engineering & agent frameworks (coming soon)
 
 ## Projects
